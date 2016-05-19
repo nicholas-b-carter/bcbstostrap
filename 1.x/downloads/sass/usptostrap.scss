@@ -1,0 +1,71 @@
+
+// Paths for compilation.
+$bootstrap-path: "bootstrap-sass/assets/stylesheets/bootstrap/";
+$images-path: "../images/";
+
+// Core variables and mixins
+@import "_variables"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_variables";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_mixins";
+
+// Reset and dependencies
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_normalize";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_print";
+@import "_icons"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons";
+
+// Core CSS
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding";
+@import "_type"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_type";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_code";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_grid";
+@import "_tables"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_tables";
+@import "_forms"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_forms";
+@import "_buttons"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_buttons";
+
+// Components
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_component-animations";
+@import "_dropdowns"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_dropdowns";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_button-groups";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_input-groups";
+@import "_navs"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_navs";
+@import "_navbar"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_navbar";
+@import "_breadcrumbs"; //@import "bootstrap-sass/assets/stylesheets/bootstrap/_breadcrumbs";
+@import "_pagination"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_pagination";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_pager";
+@import "_labels"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_labels";
+@import "_badges"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_badges";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_jumbotron";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_thumbnails";
+@import "_alerts"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_alerts";
+@import "_progress-bars"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_progress-bars";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_media";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_list-group";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_panels";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_wells";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_close";
+
+// Bootstrap 4 backports
+@import "_cards";
+
+// Components w/ JavaScript
+@import "_modals"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_modals";
+@import "_tooltip"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_tooltip";
+@import "_popovers"; //@import "bootstrap-sass/assets/stylesheets/bootstrap/_popovers";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_carousel";
+
+// Custom 3rd party lib styles
+@import "vendor/_select2";
+@import "vendor/_datepicker";
+@import "vendor/_nouislider";
+@import "vendor/_timepicker";
+
+// Custom components
+@import "custom/_filters";
+@import "custom/_sliders";
+@import "custom/_load-spinners";
+@import "custom/_accordions";
+@import "custom/_tags";
+
+// Utility classes
+@import "_utilities"; // @import "bootstrap-sass/assets/stylesheets/bootstrap/_utilities";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities";

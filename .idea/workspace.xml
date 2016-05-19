@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14f1ecfd-dcf7-408e-b386-5d9b5ac9f7f0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/designpatterns_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/css/usptostrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/IPicons-large.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/danger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/mask.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/primary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/adjust.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/adn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/align-center.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/align-justify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/align-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/align-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/amazon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ambulance.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/anchor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/android.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angellist.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-double-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-double-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-double-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-double-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/angle-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/apple.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/archive.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/area-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-down2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-o-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-o-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-o-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-o-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-right2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-circle-up2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrow-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrows-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrows-h.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrows-v.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/arrows.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/asterisk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/at.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/automobile.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/balance-scale.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ban.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bank.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bar-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/barcode.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/battery-0.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/battery-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/battery-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/battery-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/battery-4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/beer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/behance-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/behance.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bell-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bell-slash-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bell-slash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bell.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bicycle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/binoculars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/birthday-cake.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bitbucket-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bitbucket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bitcoin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/black-tie.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bolt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bomb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bookmark-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/briefcase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bug.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/building-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/building.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bullhorn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bullseye.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/bus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/buysellads.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calculator.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar-check-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar-minus-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar-plus-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar-times-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/camera-retro.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-square-o-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-square-o-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-square-o-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-square-o-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/caret-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cart-arrow-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cart-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-amex.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-diners-club.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-discover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-jcb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-mastercard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-paypal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-stripe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc-visa.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/certificate.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chain-broken.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chain.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/check-circle-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/check-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/check-square-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/check-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-circle-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-circle-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-circle-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-circle-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chevron-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/child.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/chrome.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/circle-o-notch.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/circle-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/circle-thin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/clipboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/clock-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/clone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cloud-download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cloud-upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cny.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/code-fork.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/code.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/codepen.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/coffee.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cog.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cogs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/columns.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/comment-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/comment.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/commenting-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/commenting.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/comments-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/comments.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/compass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/compress.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/connectdevelop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/contao.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/copy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/copyright.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/counterfeit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/creative-commons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/credit-card.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/crop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/crosshairs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/css3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cubes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cut.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/cutlery.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dashboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dashcube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/database.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dedent.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/delicious.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/design-patent.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/desktop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/deviantart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/diamond.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/digg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dollar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dot-circle-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dribbble.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/dropbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/drupal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/edit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eject.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ellipsis-h.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ellipsis-v.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/empire.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/envelope-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/envelope-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/envelope.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eraser.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eur.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/exchange.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/exclamation-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/exclamation-triangle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/exclamation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/expand.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/expeditedssl.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/external-link-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/external-link.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eye-slash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eye.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eye2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/eyedropper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/facebook-official.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/facebook-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fast-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fast-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fax.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/feed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/female.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fighter-jet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-archive-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-audio-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-code-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-excel-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-image-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-movie-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-pdf-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-powerpoint-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-text-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-text.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file-word-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/file.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/film.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/filter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fire-extinguisher.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fire.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fire2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/firefox.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/flag-checkered.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/flag-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/flag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/flask.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/flickr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/floppy-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/folder-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/folder-open-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/folder-open.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/folder.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/font.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/fonticons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/forumbee.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/foursquare.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/frown-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/futbol-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gamepad.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gavel.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gbp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/genderless.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/get-pocket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gg-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gift2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/git-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/git.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/github-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/github-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/gittip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/glass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/globe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/globe2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/google-plus-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/google-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/google-wallet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/google.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/graduation-cap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/group.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/h-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hacker-news.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-grab-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-lizard-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-o-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-o-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-o-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-o-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-paper-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-peace-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-pointer-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-scissors-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hand-spock-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hdd-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/header.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/headphones.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/heart-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/heart-o2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/heart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/heartbeat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/history.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hospital-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hourglass-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hourglass-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hourglass-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hourglass-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/hourglass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/houzz.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/html5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/i-cursor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ils.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/image.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/inbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/indent.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/industry.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/info-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/infringement.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/inr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/instagram.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/intellectual-property.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/internet-explorer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/intersex.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/invention.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ioxhost.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/joomla.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/jsfiddle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/key.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/keyboard-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/krw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/language.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/laptop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/large-inventor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/lastfm-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/lastfm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/leaf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/leanpub.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/lemon-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/level-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/level-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/life-bouy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/lightbulb-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/line-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/linkedin-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/linkedin-square2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/linux.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/list-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/list-ol.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/list-ul.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/location-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/long-arrow-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/long-arrow-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/long-arrow-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/long-arrow-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/magic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/magnet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mail-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mail-reply-all.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mail-reply.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/maker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/male.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/map-marker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/map-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/map-pin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/map-signs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/map.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mars-double.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mars-stroke-h.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mars-stroke-v.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mars-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/maxcdn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/meanpath.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/medium.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/medkit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/meh-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mercury.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/micro-entity-inventor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/microphone-slash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/microphone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/minus-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/minus-square-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/minus-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mobile.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/moon-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/motorcycle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/mouse-pointer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/music.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/neuter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/newspaper-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/object-group.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/object-ungroup.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/odnoklassniki-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/odnoklassniki.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/opencart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/openid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/opera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/optin-monster.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pagelines.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paint-brush.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paper-plane-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paper-plane.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paperclip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paragraph.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/patent-pending.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pause.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paw.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/paypal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pencil-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pencil.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/phone-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/phone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pie-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pied-piper-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pied-piper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pinterest-p.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pinterest-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pinterest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plane.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plant-patent.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/play-circle-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/play-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/play.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plug.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plus-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plus-square-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plus-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/power-off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/print.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/prior-art.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pro-bono.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/pro-se.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ptotrademark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/puzzle-piece.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/qq.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/qrcode.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/question-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/question.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/quote-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/quote-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ra.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/random.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/recycle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/reddit-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/reddit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/refresh.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/registered.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/renren.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/repeat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/retweet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/road.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/rocket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/rotate-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/rouble.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/rss-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/rss.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/safari.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/search-minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/search-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sellsy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/server.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/service-mark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/share-alt-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/share-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/share-square-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/share-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/shield.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ship.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/shirtsinbulk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/shopping-cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sign-in.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sign-out.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sign-out2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/signal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/simplybuilt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sitemap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/skyatlas.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/skype.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/slack.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sliders.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/slideshare.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/small-inventor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/smile-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-alpha-asc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-alpha-desc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-amount-asc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-amount-desc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-asc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-desc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-numeric-asc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort-numeric-desc.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sort.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/soundcloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/space-shuttle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/spinner.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/spoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/spotify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/square-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stack-exchange.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stack-overflow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/star-half-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/star-half.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/star-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/star.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/steam-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/steam.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stem.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/step-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/step-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stethoscope.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sticky-note-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sticky-note.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/street-view.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/strikethrough.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stumbleupon-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/stumbleupon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/subscript.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/subway.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/suitcase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/sun-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/superscript.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/table.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tablet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tags.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tasks.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/television.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tencent-weibo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/terminal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/text-height.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/text-width.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/th-large.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/th-list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/th.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumb-tack.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumb-tack2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumbs-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumbs-o-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumbs-o-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/thumbs-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/ticket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/times-circle-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/times-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tint.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/toggle-off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/toggle-on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trade-secret.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trademark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/train.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/transgender-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trash-o.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tree.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trello.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tripadvisor.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/trophy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/truck.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/try.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tumblr-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/tumblr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/twitch.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/twitter-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/umbrella.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/underline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/unlock-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/unlock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/user-md.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/user-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/user-secret.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/user-times.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/utility-patent.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/venus-double.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/venus-mars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/venus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/viacoin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/video-camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/vimeo-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/vimeo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/vine.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/vk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/volume-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/volume-off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/volume-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wechat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/weibo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/whatsapp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wheelchair.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wifi.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wikipedia-w.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/windows.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wordpress.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/wrench.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/xing-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/xing.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/y-combinator.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/yahoo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/yelp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/youtube-play.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/youtube-square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/src/youtube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/success.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/warning.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/images/icons/white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_cards.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/_variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/custom/_accordions.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/custom/_filters.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/custom/_load-spinners.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/custom/_sliders.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/custom/_tags.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/usptostrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/vendor/_datepicker.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/vendor/_nouislider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/vendor/_select2.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/less/vendor/_timepicker.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/usptostrap-1.5.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/downloads/vendor/vendor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/hero-mockup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/IPicons-large.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/danger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/mask.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/primary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/success.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/warning.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/icons/white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/place-holder-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/place-holder-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/images/place-holder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/scripts/appDemo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/scripts/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/scripts/vendor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/styles/appDemo.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/styles/pattern-library.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/styles/vendor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/vendor/html5shiv/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generated/vendor/matchMedia/matchMedia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_cards.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/_variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/custom/_accordions.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/custom/_filters.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/custom/_load-spinners.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/custom/_sliders.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/custom/_tags.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/usptostrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/vendor/_datepicker.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/vendor/_nouislider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/vendor/_select2.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usptostrap/less/vendor/_timepicker.less" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="designpatterns.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="designpatterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_navs.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_navs.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pagination.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_pagination.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_popovers.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_popovers.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_progress-bars.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_progress-bars.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_tables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_tables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_tooltip.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_tooltip.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_type.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_type.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_utilities.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_utilities.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usptostrap.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/usptostrap.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usptostrap/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/front/styles/pattern-library.scss" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_alerts.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_badges.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_breadcrumbs.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_buttons.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_dropdowns.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_forms.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_labels.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_modals.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_navbar.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_navs.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_pagination.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_popovers.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_progress-bars.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_tables.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_tooltip.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_type.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_utilities.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/usptostrap.scss" />
+        <option value="$PROJECT_DIR$/usptostrap/sass/_variables.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="136" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usptostrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usptostrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f1ecfd-dcf7-408e-b386-5d9b5ac9f7f0" name="Default" comment="" />
+      <created>1463622368869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463622368869</updated>
+      <workItem from="1463622369985" duration="2574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2574000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="275" y="136" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33039647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt-contrib-concat/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/less/test/css/css-3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt-newer/test/lib/util.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="339" column="23" selection-start-line="339" selection-start-column="19" selection-end-line="339" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/resources.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/custom/_filters.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/custom/_tags.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/components/alerts.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/custom/_accordions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.x/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/custom/_load-spinners.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/styles/pattern-library.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="103" column="10" selection-start-line="103" selection-start-column="10" selection-end-line="103" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/styles/pattern-library.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-mincer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pager.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_alerts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_background-variant.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_center-block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_hide-text.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_labels.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_alerts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_badges.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_breadcrumbs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_dropdowns.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_labels.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_modals.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_navs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_pagination.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_popovers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_progress-bars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_tables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_tooltip.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_type.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_utilities.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/usptostrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usptostrap/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
